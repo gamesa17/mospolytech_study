@@ -1,0 +1,4 @@
+﻿  second_exercise.cpp
+C:\Users\User\source\repos\second_exercise\second_exercise.cpp(17,27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\source\repos\second_exercise\second_exercise.cpp(39,36): warning C4305: инициализация: усечение из "double" в "float"
+  second_exercise.vcxproj -> C:\Users\User\source\repos\second_exercise\Debug\second_exercise.exe

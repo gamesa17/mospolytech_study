@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
 <img src="https://user-images.githubusercontent.com/104396970/191610371-e001c575-aa08-47b4-8f44-8941fabe446a.jpg"/>
-<img scr="https://user-images.githubusercontent.com/104396970/191610757-294ec411-9d10-4923-a63c-6ee1c70a71e0.jpg" />
+<img src="https://user-images.githubusercontent.com/104396970/191610757-294ec411-9d10-4923-a63c-6ee1c70a71e0.jpg"/>

@@ -4,3 +4,4 @@
 <div class="image-cropper" style="text-align: center">
     <img src="https://user-images.githubusercontent.com/104396970/191608158-73dc694d-05ca-415e-85d7-b9dd0dba32be.jpg" alt="Profile Pic" class="rounded" />
 </div>
+<img src="https://user-images.githubusercontent.com/104396970/191610371-e001c575-aa08-47b4-8f44-8941fabe446a.jpg"/>

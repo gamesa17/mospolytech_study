@@ -64,6 +64,7 @@ int main()
     }
 
     cout << "\nКонец работы программы." << endl;
+    return 0;
 
 
 }

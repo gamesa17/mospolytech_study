@@ -1,0 +1,5 @@
+﻿  first_excersice.cpp
+C:\Users\User\source\repos\first_excersice\first_excersice.cpp(14,31): warning C4244: return: преобразование "float" в "unsigned int", возможна потеря данных
+C:\Users\User\source\repos\first_excersice\first_excersice.cpp(64,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\source\repos\first_excersice\first_excersice.cpp(71,23): warning C4305: =: усечение из "double" в "float"
+C:\Users\User\source\repos\first_excersice\first_excersice.cpp(108,13): error C2065: ininternumber: необъявленный идентификатор

@@ -1,0 +1,19 @@
+SPLAY(x)
+    while x.parent ≠ NIL
+         if x.parent.parent == NIL
+             if x == x.parent.left
+                 RIGHT-ROTATE(x.parent)
+             else
+                 LEFT-ROTATE(x.parent)
+             else if x==x.parent.left and x.parent == x.parent.parent.left
+                 RIGHT-ROTATE(x.parent.parent)
+                 RIGHT-ROTATE(x.parent)
+             else if x==x.parent.right and x.parent == x.parent.parent.right
+                 LEFT-ROTATE(x.parent.parent)
+                 LEFT-ROTATE(x.parent)
+             else if x==x.parent.right and x.parent == x.parent.parent.left
+                 LEFT-ROTATE(x.parent)
+                 RIGHT-ROTATE(x.parent)
+             else
+                 RIGHT-ROTATE(x.parent)
+                 LEFT-ROTATE(x.parent)

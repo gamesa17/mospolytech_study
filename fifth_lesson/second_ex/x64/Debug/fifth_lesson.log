@@ -1,0 +1,7 @@
+﻿  fifth_lesson.cpp
+C:\Users\User\source\repos\fifth_lesson\second_ex\fifth_lesson.cpp(35,73): warning C4305: аргумент: усечение из "double" в "float"
+  MagicWeapon.cpp
+  User.cpp
+  Weapon.cpp
+  Создание кода...
+  fifth_lesson.vcxproj -> C:\Users\User\source\repos\fifth_lesson\second_ex\x64\Debug\fifth_lesson.exe

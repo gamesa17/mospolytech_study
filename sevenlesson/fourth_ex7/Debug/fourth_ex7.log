@@ -1,7 +1,0 @@
-﻿  fourth_ex7.cpp
-C:\Users\User\source\repos\fourth_ex7\fourth_ex7.cpp(76,57): warning C4305: инициализация: усечение из "double" в "_Ty"
-          with
-          [
-              _Ty=float
-          ]
-  fourth_ex7.vcxproj -> C:\Users\User\source\repos\fourth_ex7\Debug\fourth_ex7.exe

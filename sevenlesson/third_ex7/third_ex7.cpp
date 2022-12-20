@@ -42,7 +42,7 @@ int main()
 
 	//ввод пользователем строки (№4)
 	cout << "Введите произвольную строку: " << endl;
-	cin >> text;
+	cin.seekg(cin.eof());
 	getline(cin, text);
 
 
